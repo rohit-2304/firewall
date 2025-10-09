@@ -1,0 +1,3024 @@
+[2025-10-07 13:00:16 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 13:00:16 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 13:00:16 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 13:00:16 +0000] [6] [INFO] Booting worker with pid: 6
+[2025-10-07 13:00:16 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 13:00:16 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 13:00:16 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 13:59:30 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 13:59:30 +0000] [6] [INFO] Worker exiting (pid: 6)
+[2025-10-07 13:59:30 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 13:59:30 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 13:59:30 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 13:59:30 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 14:07:03 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 14:07:03 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 14:07:03 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 14:07:03 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 14:07:03 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 14:07:03 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 14:07:03 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 14:08:33 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 14:08:33 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 14:08:33 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 14:08:33 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 14:08:33 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 14:08:33 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 14:09:12 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 14:09:12 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 14:09:12 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 14:09:12 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 14:09:12 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 14:09:12 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 14:09:12 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 14:14:05 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 14:14:06 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 14:14:06 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 14:14:06 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 14:14:06 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 14:14:06 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 14:15:23 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 14:15:23 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 14:15:23 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 14:15:23 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 14:15:23 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 14:15:23 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 14:15:23 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 14:16:16 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 14:16:16 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 14:16:16 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 14:16:16 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 14:16:16 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 14:16:17 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 14:16:23 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 14:16:23 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 14:16:23 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 14:16:23 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 14:16:23 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 14:16:23 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 14:16:23 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 15:00:46 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 15:00:47 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 15:00:47 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 15:00:47 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 15:00:47 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 15:00:47 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 15:00:59 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 15:00:59 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 15:00:59 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 15:00:59 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 15:00:59 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 15:00:59 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 15:00:59 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 15:19:29 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 15:19:29 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 15:19:29 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 15:19:29 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 15:19:30 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 15:19:30 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 15:20:44 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 15:20:44 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 15:20:44 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 15:20:44 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 15:20:44 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 15:20:45 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 15:20:45 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:38:41 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 16:38:42 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:38:42 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:38:42 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:38:42 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:38:42 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 16:38:49 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:38:49 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:38:49 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:38:49 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:38:49 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:38:50 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:38:50 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:38:50 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:50 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:38:50 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:50 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:38:50 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:38:50 +0000] [1] [ERROR] Worker (pid:7) was sent SIGTERM!
+[2025-10-07 16:38:50 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:50 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:38:50 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:50 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:38:50 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 16:38:51 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:38:51 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:38:51 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:38:51 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:38:51 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:38:51 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:38:51 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:51 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:38:51 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:38:51 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:38:51 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:51 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:38:51 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 16:38:51 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:51 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:51 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:38:51 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:38:52 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:38:52 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:38:52 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:38:52 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:38:52 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:38:52 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:38:52 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:38:52 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:52 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:38:52 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:52 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:38:52 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:52 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:38:52 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:38:52 +0000] [1] [ERROR] Worker (pid:7) was sent SIGTERM!
+[2025-10-07 16:38:52 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:38:52 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:52 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:38:52 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:38:53 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:38:53 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:38:53 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:38:53 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:38:53 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:38:53 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:38:53 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:53 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:38:53 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:38:53 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:53 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:38:53 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:53 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:38:53 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:38:53 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:38:53 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:38:53 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:53 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:38:53 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:38:55 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:38:55 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:38:55 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:38:55 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:38:55 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:38:55 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:38:55 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:38:55 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:55 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:38:55 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:55 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:38:55 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:55 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:38:55 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:55 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:38:55 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:38:55 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:38:55 +0000] [1] [ERROR] Shutting down: Master
+[2025-10-07 16:38:55 +0000] [1] [ERROR] Reason: Worker failed to boot.
+[2025-10-07 16:38:57 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:38:57 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:38:57 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:38:57 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:38:57 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:38:57 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:38:57 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:38:57 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:57 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:38:57 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:57 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:38:57 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:38:57 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:38:57 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:57 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:38:57 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:38:57 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:38:57 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 16:39:01 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:39:01 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:39:01 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:39:01 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:39:01 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:39:01 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:39:01 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:01 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:39:01 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:01 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:39:01 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:39:01 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:01 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:39:01 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:39:01 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:39:01 +0000] [1] [ERROR] Worker (pid:7) was sent SIGTERM!
+[2025-10-07 16:39:01 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:01 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:39:01 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:39:08 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:39:08 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:39:08 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:39:08 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:39:08 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:39:08 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:08 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:39:08 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:39:08 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:08 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:39:08 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:39:08 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:39:08 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:39:08 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:08 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:39:08 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:08 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:39:08 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 16:39:21 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:39:21 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:39:21 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:39:22 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:39:22 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:39:22 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:39:22 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:39:22 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:22 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:39:22 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:22 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:39:22 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:22 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:39:22 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:39:22 +0000] [1] [ERROR] Worker (pid:7) was sent SIGTERM!
+[2025-10-07 16:39:22 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:39:22 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:22 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:39:22 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:39:48 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:39:48 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:39:48 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:39:48 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:39:48 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:39:48 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:39:48 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:39:48 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:48 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:39:48 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:48 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:39:48 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:48 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:39:48 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:39:48 +0000] [1] [ERROR] Worker (pid:7) was sent SIGTERM!
+[2025-10-07 16:39:48 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:39:48 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:39:48 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 16:40:40 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:40:40 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:40:40 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:40:40 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:40:40 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:40:40 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:40:40 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:40:40 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:40:40 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:40:40 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:40:40 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:40:40 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:40:40 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:40:40 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:40:40 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:41:40 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:41:40 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:41:40 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:41:40 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:41:40 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:41:40 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:41:41 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:41:41 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:41:41 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:41:41 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:41:41 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:41:41 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:41:41 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:41:41 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:41:41 +0000] [1] [ERROR] Worker (pid:7) was sent SIGTERM!
+[2025-10-07 16:41:41 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:41:41 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:41:41 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:41:41 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:47:06 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:06 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:06 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:06 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:06 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:06 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:06 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:47:06 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:06 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:06 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:06 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:06 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:06 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:06 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:06 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:47:06 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:47:06 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:47:06 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:47:06 +0000] [1] [ERROR] Worker (pid:10) was sent SIGTERM!
+[2025-10-07 16:47:06 +0000] [1] [ERROR] Shutting down: Master
+[2025-10-07 16:47:06 +0000] [1] [ERROR] Reason: Worker failed to boot.
+[2025-10-07 16:47:07 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:07 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:07 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:07 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:07 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:07 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:07 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:07 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:07 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:47:07 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:07 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:07 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:47:07 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:47:07 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:07 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:07 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:07 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:47:07 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:47:08 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:08 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:08 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:08 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:08 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:08 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:08 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:08 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:08 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:47:08 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:08 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:08 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:47:08 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:47:08 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:08 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:08 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:08 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:47:09 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:47:09 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:09 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:09 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:09 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:09 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:09 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:09 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:09 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:09 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:47:09 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:10 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:10 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:10 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:10 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:47:11 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:11 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:11 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:11 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:11 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:11 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:11 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:11 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:11 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:11 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:11 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:47:11 +0000] [1] [ERROR] Worker (pid:8) exited with code 3
+[2025-10-07 16:47:11 +0000] [1] [ERROR] Worker (pid:7) was sent SIGTERM!
+[2025-10-07 16:47:11 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:11 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:11 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:11 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:47:11 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 16:47:13 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:13 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:13 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:13 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:13 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:13 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:13 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:13 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:13 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:47:13 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:13 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:13 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:13 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:13 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:47:13 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:47:13 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:47:13 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:13 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:47:14 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:47:17 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:17 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:17 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:17 +0000] [6] [INFO] Booting worker with pid: 6
+[2025-10-07 16:47:17 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:17 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:17 +0000] [6] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:17 +0000] [6] [INFO] Worker exiting (pid: 6)
+[2025-10-07 16:47:17 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:17 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:17 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:17 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:17 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:17 +0000] [1] [ERROR] Worker (pid:6) exited with code 3
+[2025-10-07 16:47:17 +0000] [1] [ERROR] Worker (pid:7) was sent SIGTERM!
+[2025-10-07 16:47:17 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:47:17 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:17 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:18 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 16:47:24 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:24 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:24 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:24 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:25 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:25 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:25 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:25 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:25 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:47:25 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:25 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:25 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:25 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:25 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:47:25 +0000] [1] [ERROR] Worker (pid:9) was sent SIGTERM!
+[2025-10-07 16:47:25 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:47:25 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:25 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:47:25 +0000] [1] [ERROR] Worker (pid:10) exited with code 3
+[2025-10-07 16:47:38 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:47:38 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:47:38 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:47:38 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:47:38 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:47:38 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:38 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:47:38 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:38 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:47:38 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:47:38 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:47:38 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:47:38 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:47:38 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:47:38 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 16:48:04 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 16:48:04 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 16:48:04 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 16:48:04 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 16:48:04 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 16:48:04 +0000] [7] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:48:04 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 16:48:04 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 16:48:04 +0000] [8] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:48:04 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 16:48:04 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 16:48:05 +0000] [1] [ERROR] Worker (pid:7) exited with code 3
+[2025-10-07 16:48:05 +0000] [1] [ERROR] Worker (pid:8) was sent SIGTERM!
+[2025-10-07 16:48:05 +0000] [9] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:48:05 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 16:48:05 +0000] [10] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/gthread.py", line 95, in init_process
+    super().init_process()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/app/app.py", line 8, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[2025-10-07 16:48:05 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 16:48:05 +0000] [1] [ERROR] Worker (pid:9) exited with code 3
+[2025-10-07 17:11:23 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:11:23 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:11:23 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:11:23 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:11:23 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:11:23 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:11:23 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 17:26:33 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:26:34 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:26:34 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:26:34 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:26:34 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 17:26:36 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:26:36 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:26:36 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:26:36 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:26:36 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:26:36 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:26:36 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:26:36 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 17:28:13 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:28:14 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:28:14 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:28:14 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 17:28:14 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:28:15 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:28:28 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:28:28 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:28:28 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:28:28 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:28:28 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:28:28 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:28:28 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 17:41:37 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:41:38 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:41:38 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:41:38 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 17:41:38 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:41:39 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:41:40 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:41:40 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:41:40 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:41:40 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:41:40 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:41:40 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:41:40 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 17:42:10 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:42:10 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:42:10 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 17:42:10 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:42:11 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:42:12 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:42:12 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:42:12 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:42:12 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:42:12 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:42:12 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:42:12 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:42:12 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 17:43:57 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:43:57 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:43:57 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:43:57 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:43:57 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 17:43:58 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:44:09 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:44:09 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:44:09 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:44:09 +0000] [6] [INFO] Booting worker with pid: 6
+[2025-10-07 17:44:10 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:44:10 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:44:10 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:45:00 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:45:00 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:45:01 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:45:01 +0000] [6] [INFO] Worker exiting (pid: 6)
+[2025-10-07 17:45:01 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:45:02 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:45:02 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:45:02 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:45:02 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:45:02 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:45:02 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:45:02 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:45:02 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 17:46:14 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:46:14 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:46:15 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:46:15 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:46:15 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 17:46:16 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:46:33 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:46:33 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:46:33 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:46:33 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:46:33 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:46:33 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:46:33 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 17:48:27 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:48:28 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:48:28 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:48:28 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 17:48:28 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:48:29 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:48:43 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:48:43 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:48:43 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:48:43 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:48:43 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:48:43 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:48:43 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 17:49:51 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 17:49:51 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 17:49:51 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 17:49:52 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 17:49:52 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 17:49:53 +0000] [1] [INFO] Shutting down: Master
+[2025-10-07 17:50:01 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-07 17:50:01 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-07 17:50:01 +0000] [1] [INFO] Using worker: gthread
+[2025-10-07 17:50:01 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-07 17:50:02 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-07 17:50:02 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-07 17:50:02 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-07 18:03:51 +0000] [1] [INFO] Handling signal: term
+[2025-10-07 18:03:51 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-07 18:03:51 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-07 18:03:51 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-07 18:03:52 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-07 18:03:53 +0000] [1] [INFO] Shutting down: Master
+[2025-10-08 17:21:48 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-08 17:21:48 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-08 17:21:48 +0000] [1] [INFO] Using worker: gthread
+[2025-10-08 17:21:48 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-08 17:21:48 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-08 17:21:48 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-08 17:21:48 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-08 17:22:32 +0000] [1] [INFO] Handling signal: term
+[2025-10-08 17:22:33 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-08 17:22:33 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-08 17:22:33 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-08 17:22:33 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-08 17:22:35 +0000] [1] [INFO] Shutting down: Master
+[2025-10-08 17:22:43 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2025-10-08 17:22:43 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)
+[2025-10-08 17:22:43 +0000] [1] [INFO] Using worker: gthread
+[2025-10-08 17:22:43 +0000] [7] [INFO] Booting worker with pid: 7
+[2025-10-08 17:22:43 +0000] [8] [INFO] Booting worker with pid: 8
+[2025-10-08 17:22:43 +0000] [9] [INFO] Booting worker with pid: 9
+[2025-10-08 17:22:43 +0000] [10] [INFO] Booting worker with pid: 10
+[2025-10-08 17:26:27 +0000] [1] [INFO] Handling signal: term
+[2025-10-08 17:26:27 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2025-10-08 17:26:27 +0000] [9] [INFO] Worker exiting (pid: 9)
+[2025-10-08 17:26:27 +0000] [8] [INFO] Worker exiting (pid: 8)
+[2025-10-08 17:26:28 +0000] [7] [INFO] Worker exiting (pid: 7)
+[2025-10-08 17:26:29 +0000] [1] [INFO] Shutting down: Master

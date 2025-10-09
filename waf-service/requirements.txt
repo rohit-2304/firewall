@@ -1,0 +1,36 @@
+# Flask WAF with BERT Integration - Complete Requirements
+# Updated for Flask 3.0.0 and Gunicorn 21.2.0
+
+# Core Flask and WSGI dependencies
+flask==3.0.0
+gunicorn==21.2.0
+
+# PyTorch and ML dependencies
+torch>=2.0.0
+transformers>=4.30.0
+tokenizers>=0.13.0
+datasets>=2.14.0
+
+# Scientific computing
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Built-in Python modules (no installation needed):
+# - datetime (built-in)
+# - json (built-in) 
+# - hashlib (built-in)
+# - logging (built-in)
+# - re (built-in)
+# - os (built-in)
+# - urllib.parse (built-in)
+
+# Optional: Development and utilities
+tqdm>=4.65.0
+requests>=2.31.0
+
+# For production deployment
+werkzeug>=3.0.0
+
+# Optional: GPU support (uncomment if using CUDA)
+# torch-audio>=2.0.0
+# torch-vision>=0.15.0

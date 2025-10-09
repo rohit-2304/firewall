@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  nginx:
+    image: nginx:alpine
+    container_name: waf_nginx
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+      - ./logs/nginx:/var/log/nginx
+    depends_on:
+      - waf-inference
+      - juice-shop  # Add dependency
+    restart: unless-stopped
+    networks:
+      - waf_network
+
+  waf-inference:
+    build:
+      context: ./waf-service
+      dockerfile: Dockerfile
+    container_name: waf_inference
+    expose:
+      - "5000"
+    volumes:
+      - ./waf-service:/app
+      - ./logs/waf:/var/log
+      - ./models:/models
+    environment:
+      - FLASK_ENV=production
+      - MODEL_PATH=/models/bert-finetuned-logs/checkpoint-2073
+      - LOG_LEVEL=INFO
+    restart: unless-stopped
+    networks:
+      - waf_network
+
+  juice-shop:  # Add this entire service
+    image: bkimminich/juice-shop
+    container_name: juice_shop
+    expose:
+      - "3000"
+    restart: unless-stopped
+    networks:
+      - waf_network
+
+networks:
+  waf_network:
+    driver: bridge
