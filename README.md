@@ -7,9 +7,7 @@ A proof-of-concept implementation of a transformer-driven, machine learning-powe
 ## Features
 
 - Transformer-based threat detection (BERT/LogBERT/Longformer).
-- Graph-based behavioral analysis with GNNs for detecting stealthy, multi-step attacks.
 - Mixture of Experts architecture for dynamic model selection.
-- Online and federated learning for continuous adaptation.
 - Interactive traffic dashboard and real-time analytics.
 - Plug-and-play deployment using Docker and microservices.
 - Low-latency, scalable, async architecture with GPU acceleration.
